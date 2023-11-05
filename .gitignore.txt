@@ -1,0 +1,1 @@
+Here I get to set the files that I want GIT to ignore. Open a hashtag symbol and type the file extensions that you want GIT to ignore.
